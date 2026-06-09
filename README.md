@@ -1,4 +1,4 @@
-# Optimization Algorithms from Scratch for Deep Learning
+# Optimization Algorithms from Scratch for Deep Learning ⚙️
 
 ## Overview
 
